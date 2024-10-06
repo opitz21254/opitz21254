@@ -1,4 +1,4 @@
-# ¡Hola! Soy Brennan, estudio informática.
+# ¡Hola! Soy Brennan, estudio Informática.
 
 - **Some projects I'm currently working on are**:
   - *[ChemQuu](https://github.com/opitz21254/ChemQuu)*: A method of loci-based Chemistry education app.
