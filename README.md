@@ -8,6 +8,6 @@
 
 - I’ve used **HTML/CSS** to build websites and educational tools that simplify learning processes.
 
-- I'm especially interested in **optimistic tech** and eager to collaborate.
+- I'm especially interested in **Optimistic Tech** and eager to collaborate.
 
 Email: brennanopitz [at] gmail [dot] com
