@@ -4,7 +4,7 @@
   - *[ChemQuu](https://github.com/opitz21254/ChemQuu)*: A method of loci-based Chemistry education app.
   - *[FreshMath](https://github.com/opitz21254/FreshMath)*: A mathematics education tool based on spaced repetition.
   
-- **I've worked extensively with C# and CSS**: Developed user interfaces and education platforms like ChemQuu, focusing on clean design and functionality.
+- **I've worked with C# and CSS**: Developed user interfaces and education platforms like ChemQuu, focusing on clean design and functionality.
 
 - I’ve used **HTML/CSS** to build websites and educational tools that simplify learning processes.
 
