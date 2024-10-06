@@ -8,6 +8,6 @@
 
 - **I’ve used HTML/CSS** to build websites and educational tools that simplify learning processes.
 
-- **I’m particularly interested in educational technology and always eager to collaborate on impactful projects. Feel free to check out my repositories or contact me via email.
+- I’m particularly interested in educational technology and always eager to collaborate on impactful projects. Feel free to check out my repositories or contact me via email.
 
 Email: brennanopitz [at] gmail [dot] com
