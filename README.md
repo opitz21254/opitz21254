@@ -3,6 +3,7 @@
 - **Some projects I'm currently working on are**:
   - *[SimpleAi](https://github.com/opitz21254/SimpleAiBot)*: A text message to ChatGPT service for Light Phone users.
   - *[FreshMath](https://github.com/opitz21254/FreshMath)*: A mathematics education tool based on spaced repetition.
+  - *[HTBL](https://github.com/opitz21254/FreshMath)*: A Hyper-Text-Book-Language for studying more efficiently.
   
 - **I've worked with C# and CSS**: Developed user interfaces and education platforms like ChemQuu, focusing on clean design and functionality.
 
